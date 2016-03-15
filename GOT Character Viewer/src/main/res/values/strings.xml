@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GOT Character Viewer</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="query">"game of thrones characters"</string>
+</resources>

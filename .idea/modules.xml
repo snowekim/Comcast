@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Comcast.iml" filepath="$PROJECT_DIR$/Comcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GOT Character Viewer/GOT Character Viewer.iml" filepath="$PROJECT_DIR$/GOT Character Viewer/GOT Character Viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simpsons Character Viewer/Simpsons Character Viewer.iml" filepath="$PROJECT_DIR$/Simpsons Character Viewer/Simpsons Character Viewer.iml" />
+    </modules>
+  </component>
+</project>

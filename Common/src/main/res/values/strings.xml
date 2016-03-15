@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Common</string>
+    <string name="network_error">Please verify that your network connexion is working and try
+        again.</string>
+    <string name="action_grid">Grid View</string>
+    <string name="action_list">List View</string>
+</resources>
