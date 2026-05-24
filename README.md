@@ -25,3 +25,4 @@ GOT CHARACTER VIEWER:
   This is a module app that fetches the contents of the following Restful web service: http://api.duckduckgo.com with the query string “game of thrones characters”
 
 The project is optimized in such a way that the app modules only extend from the library project and write the necessary code present the content they want.
+...
